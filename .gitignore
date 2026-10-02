@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.py[cod]
+
+# Large downloaded source datasets and archives
+data/MachineLearningCSV/
+data/MachineLearningCSV.zip
+
+# Generated outputs
+artifacts/
+data/processed/
+
+# Local notebook/runtime files
+.ipynb_checkpoints/
